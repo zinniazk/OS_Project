@@ -65,5 +65,6 @@ npm run dev
 Frontend runs on http://localhost:5173
 
 🖼️ Screenshots
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/0586dd2d-bfdf-46b3-8de6-b56652addf4b" />
+<img width="2884" height="1526" alt="image" src="https://github.com/user-attachments/assets/30792bc7-2921-4324-919c-715f212b7509" />
+
 
